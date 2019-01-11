@@ -1,2 +1,2 @@
-# tutorial-Symfony
-Siguiendo el libro "Practical Symfony" de Bernard Peh, proyecto para aprender a trabajar con Symfony
+# Sobre este proyecto
+Proyecto de aprendizaje para entender y poder trabajar sobre el framework Symfony versión 3.4 de PHP, siguiendo los ejemplos explicados por Bernard Peh en su libro "Pratical Symfony".
